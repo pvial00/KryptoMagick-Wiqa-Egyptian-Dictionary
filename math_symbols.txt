@@ -1,0 +1,9 @@
+KryptoMagick Wiqa Egyptian Math Symbols
+---------------------------------------
+
+Symbol: FTU
+Numberical value: 4
+Word value: Four
+Phonetic pronunciation: FETU
+Key: F T U
+Value: * + - / ^
